@@ -8,7 +8,7 @@
 ## Estructura
 - script/login_test.js → Script principal
 - data/users.csv → Usuarios a testear
-- resultados/reporte.json → Reporte generado
+- resultados/report.json → Reporte generado
 
 ## Pasos de ejecución
 
