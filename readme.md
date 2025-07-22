@@ -15,7 +15,6 @@
 1. Instalar K6: https://k6.io/docs/getting-started/installation/
 2. Clonar este repositorio
 3. Desde terminal:
-   cd script
    k6 run --summary-export=./results/report.json script/login_test.js
 
 El script usa usuarios parametrizados desde CSV y evalúa:
